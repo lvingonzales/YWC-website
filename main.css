@@ -1,0 +1,11 @@
+body {
+    margin: 0px;
+}
+
+.logo {
+    margin: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;   
+    width: 75px;
+    height: 75px;
+}

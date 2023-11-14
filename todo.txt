@@ -3,22 +3,22 @@ Try to hard code simple solutions to the problems at first and then refine them 
 
 1. Logo
         75x75 size
-        20 px left right padding
-        5px top bottom padding
+        20 px left right margin
+        5px top bottom margin
         clickable
         animation on hover
         redirects to home page
 
 2. Name
         1080x80 size
-        no margins, no padding
+        no margins
         clickable
         redirects to home page
         centered on page
 
 3. Nav Bar
         screen-width x 60
-        no top padding, 25px bottom padding
+        no top margin, 25px bottom margin
 
         3.1. Home Button
             120x60 
@@ -38,8 +38,41 @@ Try to hard code simple solutions to the problems at first and then refine them 
             clickable
 
             Wines Dropdown
-                3.2a. Red Wine
-                    tbd
+                main box
+                    120x120
+                    no padding no margin
+                    black 1px border
+                    bottom left corner rounded 10px
+                        3.2a. Red Wine
+                            120px x 60px
+                            1px light grey bottom border
+                            20px vertical padding
+                            main box    
+                                120px x 180px
+                                1px black border
+                                bottom left corner rounded 10px
+                                no padding no margin
+
+                                Merlot
+                                    120px x 60px
+                                    1px light grey bottom border
+                                    20px vertical padding
+                                Malbec
+                                    120px x 60px
+                                    1px light grey bottom border
+                                    20px vertical padding
+                                Syrah
+                                    120px x 60px
+                                    1px light grey bottom border
+                                    20px vertical padding
+                                    10px rounded bottom left corner
+
+                        3.2b. White wine  
+                            120px x 60px
+                            1px light grey bottom border
+                            10px rounded bottom left corner
+                            20px vertical padding
+
 
         3.3. News Button
             120x60 
@@ -70,7 +103,7 @@ Try to hard code simple solutions to the problems at first and then refine them 
 
 4. Featured
         screen-width x 460
-        25px top and bottom padding
+        25px top and bottom margin
         split into two halves
             4.1.Left Half
                 no margins
@@ -78,8 +111,36 @@ Try to hard code simple solutions to the problems at first and then refine them 
                 4.1b. Front label image
                 4.1c. Back Label image 
             4.2. Right Half
+                4.2a. Featured Text Box
+                    50px horizontal padding
+                    20px vertical padding
+                    30px rounded corners
 
 5. News
+        screen width x 230px
+        25px top and bottom margin
+        5.1. News Text Box
+            850x230px
+            20x20px padding
+        5.2. News Headline image
+            620x230px image
+            image is a gradient which fades into the text box (left to right)
 
 6. Footer
+        screen-width x 512px
+        25px top margin
+        50px horizontal padding
+        30 px vertical padding
+        fixed width and height
+        6.1 footer Text Box 1
+            fill height and width
+            100px x 10px padding
+            10px center border, rounded corners
+        6.2 footer Text Box 2
+            fill height and width
+            100px x 10px padding
+            10px center border, rounded corners
+        6.3 footer Text Box 3
+            fill height and width
+            100px x 10px padding
 
