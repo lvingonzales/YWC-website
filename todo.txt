@@ -1,0 +1,85 @@
+Features should be completed from the top of the page to the bottom, and will be subdivided to simplify the process.
+Try to hard code simple solutions to the problems at first and then refine them after getting them working.
+
+1. Logo
+        75x75 size
+        20 px left right padding
+        5px top bottom padding
+        clickable
+        animation on hover
+        redirects to home page
+
+2. Name
+        1080x80 size
+        no margins, no padding
+        clickable
+        redirects to home page
+        centered on page
+
+3. Nav Bar
+        screen-width x 60
+        no top padding, 25px bottom padding
+
+        3.1. Home Button
+            120x60 
+            1px border inside, no right border
+            "HOME" text is horizontally and vertically centered in Button
+            All caps 20px font size, sans font
+            Hoverable, no dropdown, button colour darkens, font colour inverts
+            clickable
+            redirects to home page
+
+        3.2. Wines Button
+            120x60 
+            1px border inside, no right border
+            "WINES" text is horizontally and vertically centered in Button
+            All caps 20px font size, sans font
+            Hoverable, dropdown list with sub categories, button colour darkens, font colour inverts
+            clickable
+
+            Wines Dropdown
+                3.2a. Red Wine
+                    tbd
+
+        3.3. News Button
+            120x60 
+            1px border inside
+            "NEWS" text is horizontally and vertically centered in Button
+            All caps 20px font size, sans font
+            Hoverable, no dropdown, button colour darkens, font colour inverts
+            clickable
+
+        3.4. Cart Button
+            60x60 
+            1px border inside, no right border
+            Stock Cart Icon
+            Hoverable, no dropdown, button colour darkens, image colour inverts
+            clickable
+
+        3.5. Account Button
+            60x60 
+            1px border inside
+            Stock account icon
+            All caps 20px font size, sans font
+            Hoverable, Dropdown, button colour darkens, font colour inverts
+            clickable
+            redirects to home page
+
+            Accounts Dropdown
+                3.5a. tbd
+
+4. Featured
+        screen-width x 460
+        25px top and bottom padding
+        split into two halves
+            4.1.Left Half
+                no margins
+                4.1a. Overview image
+                4.1b. Front label image
+                4.1c. Back Label image 
+            4.2. Right Half
+
+5. News
+
+6. Footer
+
